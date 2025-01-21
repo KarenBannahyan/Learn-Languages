@@ -9,8 +9,8 @@ class WordInputApp(ctk.CTk):
 
         self.translations = {
             'English': {
-                'title': 'German Word and Translation Input',
-                'german_word': 'German Word:',
+                'title': 'Translation Input',
+                'german_word': 'Word:',
                 'translation': 'Translation:',
                 'save_word': 'Save Word',
                 'input_error': 'Please fill in both fields!',
@@ -18,8 +18,8 @@ class WordInputApp(ctk.CTk):
                 'success': "Word '{word}' with translation '{translation}' saved successfully!"
             },
             'Russian': {
-                'title': 'Ввод немецкого слова и перевода',
-                'german_word': 'Немецкое слово:',
+                'title': 'Ввод слова и перевода',
+                'german_word': 'Слово:',
                 'translation': 'Перевод:',
                 'save_word': 'Сохранить слово',
                 'input_error': 'Пожалуйста, заполните оба поля!',
