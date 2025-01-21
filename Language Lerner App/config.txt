@@ -1,0 +1,3 @@
+language=English
+color1=#228B22
+color2=#6B8E23
