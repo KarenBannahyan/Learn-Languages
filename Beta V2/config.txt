@@ -1,3 +1,0 @@
-language=English
-color1=#f44336
-color2=#ff9800
